@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>My Custom Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>My Custom Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-28 19:33:13</sys_created_on>
+        <sys_id>3ebcb2c82f42011095fad7492799b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Custom Table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_wizard_answer_3ebcb2c82f42011095fad7492799b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-28 19:33:13</sys_updated_on>
+        <table/>
+        <target_url>x_58872_needit_my_custom_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>809b4f0fdb0a37883050ac44d4961937</instance_id>
+        <instance_name>dev88193</instance_name>
+        <name>sys_wizard_answer_3ebcb2c82f42011095fad7492799b64e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>My Custom Table</answer><button_label/><dependent_value/><element/><name>My Custom Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-28 19:33:13</sys_created_on><sys_id>3ebcb2c82f42011095fad7492799b64e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Custom Table</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_wizard_answer_3ebcb2c82f42011095fad7492799b64e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-28 19:33:13</sys_updated_on><table/><target_url>x_58872_needit_my_custom_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>400178783</payload_hash>
+        <record_name>My Custom Table</record_name>
+        <reverted_from/>
+        <source>a0ff51002f11011095fad7492799b6a6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-01-22 06:00:44</sys_created_on>
+        <sys_id>7235c3402f82011095fad7492799b628</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17e805f6ae00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>3235c340b58201103a4d823315a0f528</update_guid>
+        <update_guid_history>3235c340b58201103a4d823315a0f528:400178783</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-28 20:10:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>aacd81a4d37f441f9deed19f0c080af1</sys_id>
+        <sys_metadata>3ebcb2c82f42011095fad7492799b64e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Custom Table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Task">6ff033c4c923101091f9f06464832717</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_3ebcb2c82f42011095fad7492799b64e</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_3ebcb2c82f42011095fad7492799b64e">7235c3402f82011095fad7492799b628</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-28 20:10:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
